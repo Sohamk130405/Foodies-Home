@@ -1,6 +1,6 @@
-  =>  Template Name    : Foodies-Home - Foodiesing Services 
+  =>  Template Name    : Foodies-Home - Catering Services 
 
-  =>  Template Link    : https://htmlcodex.com/Foodiesing-services-website-template
+  =>  Template Link    : https://htmlcodex.com/Catering-services-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
